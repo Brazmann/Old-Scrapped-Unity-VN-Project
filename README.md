@@ -1,2 +1,2 @@
-# Old-Scrapped-Unity-VN-Project
+# what
  Code I made for a scrapped visual novel project I was apart of. Old ass code, expect nonsense.
