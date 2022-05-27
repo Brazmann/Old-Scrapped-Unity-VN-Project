@@ -1,0 +1,19 @@
+title: Test
+tags: 
+colorID: 0
+position: 524,111
+---
+    Player: Hey, Test.
+    Test: Oh! Hi.
+    Test: You snuck up on me.
+    Test: Don't do that. 
+    Test: Anyways, this is a pretty basic demonstration of how dialogue works with this library.
+    Test: It's extremely customizable, so don't take anything you see here as "all you're gonna get".
+    Test: From what I've learned, this library is more than capable of working for a game like this.
+    Test: Currently, the setup I have going is pretty messy, so I'll try to learn more about it, and tidy things up a bit.
+    Test: So, what do you think?
+    -> This is pretty cool
+     Test: Agreed
+    -> This SUCKS
+     Test: Perish.
+===
